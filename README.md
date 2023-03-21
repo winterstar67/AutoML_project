@@ -12,6 +12,7 @@
 
 `-` The environment of the coding:
 - Visual Studio Code connected with anaconda virtual environment
+- The libraries: streamlit, pandas_profiling, and pycaret are mainly used, which I'm not familar with them
 
 
 

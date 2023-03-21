@@ -15,5 +15,7 @@
 - The libraries: streamlit, pandas_profiling, and pycaret are mainly used, which I'm not familar with them
 
 
+![main title](https://github.com/winterstar67/AutoML_project/blob/main/image.png)
+- title page of streamlit
 
 

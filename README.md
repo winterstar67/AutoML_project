@@ -9,3 +9,10 @@
 - Analyze the uploaded data with pandas_profiling
 - Training models (such as XGBoost, RF, ...) with pycaret
 - Download the trained model
+
+`-` The environment of the coding:
+- Visual Studio Code connected with anaconda virtual environment
+
+
+
+
